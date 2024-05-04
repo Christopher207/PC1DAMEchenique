@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PC1DAM_Echenique</string>
+    <string name="CalculoDeNotas">Cálculo de Notas</string>
+    <string name="ExamenParcial">Examen Parcial</string>
+    <string name="ExamenFinal">Examen Final</string>
+    <string name="PromedioPEP">Promedio de Evaluación Permanente (PEP)</string>
+    <string name="IngreseNota">Ingrese Nota</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Resultado">Resultado</string>
+    <string name="NotaFinal">La nota final es:</string>
+    <string name="ResultadoTexto">Resultado:</string>
+</resources>
